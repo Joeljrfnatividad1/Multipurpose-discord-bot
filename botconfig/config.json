@@ -1,8 +1,8 @@
 {
-    "token": "GET from: https://discord.com/developers/applications",
+    "token": "",
     "prefix": "//",
     "ownerIDS": [
-        "442355791412854784"
+        "875671806609084428"
     ],
     "fnbr": "GET from: https://fnbr.co",
     "fortnitetracker": "GET from: https://fortnitetracker.com",
